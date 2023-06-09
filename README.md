@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there :) ✨
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODE3NWU3ZmViMjdmMGNmODZiZmI3NGEwZmU5NGEzZDVjMjk1OTFiYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7NoNw4pMNTvgc/giphy.gif" width="400" height="300"  /></p>
 
 ## 🌸 About me 🌸
-I am an electrical engineering student from Germany 🇩🇪
+- ⚡ I am an electrical engineering student from Germany
+- 🌱 Currently I am still in the middle of getting to know a lot of new languages and tools 
+- 🎮 I like to play video games and am eager to learn new things in my free time 
 
 ---
 
@@ -28,13 +30,13 @@ I am an electrical engineering student from Germany 🇩🇪
 
 ### 🔥 &nbsp; My Stats :
 ![My Stats](https://github-readme-stats.vercel.app/api?username=DiepLau&show_icons=true&theme=gruvbox&bg_color=000000&text_color=FFFFFF&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiepLau&layout=compact&theme=vision-friendly-dark)
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiepLau&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiepLau&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=DiepLau&style=flat-square&color=blue" alt=""></p>
 
 <!--
 **DiepLau/DiepLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,3 +51,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+This template is from [itsZed0](https://github.com/itsZed0/itsZed0)
+and the icons are from [devicon](https://github.com/devicons/devicon)
+</br>
+Thanks a lot :) 
