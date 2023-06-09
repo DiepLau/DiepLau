@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 ---
 
 This template is from [itsZed0](https://github.com/itsZed0/itsZed0)
-and the icons are from [devicon](https://github.com/devicons/devicon)
+and the icons are from [devicon](https://github.com/devicons/devicon). Got some inspiration from [BenniWi](https://github.com/BenniWi) 🦕✨
 </br>
 Thanks a lot :) 
